@@ -1,5 +1,5 @@
 ##  Web Scraper (CNN)  
-A Node.js & MongoDB web-app that web-scrapes news data from [cnn](https://www.cnn.com/) and allows users to comment. Users can also delete unwanted comments. The deployed version is hosted in Heroku here!
+A Node.js & MongoDB web-app that web-scrapes news data from [cnn](https://www.cnn.com/) and allows users to comment. Users can also delete unwanted comments. The deployed version is hosted in Heroku [here](https://webscrapercnn.herokuapp.com/)!
 
 ##  Functionality
 
